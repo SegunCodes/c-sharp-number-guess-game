@@ -1,0 +1,15 @@
+C:\Users\Segun\OneDrive\Desktop\guess-game\bin\Debug\net7.0\guess-game.exe
+C:\Users\Segun\OneDrive\Desktop\guess-game\bin\Debug\net7.0\guess-game.deps.json
+C:\Users\Segun\OneDrive\Desktop\guess-game\bin\Debug\net7.0\guess-game.runtimeconfig.json
+C:\Users\Segun\OneDrive\Desktop\guess-game\bin\Debug\net7.0\guess-game.dll
+C:\Users\Segun\OneDrive\Desktop\guess-game\bin\Debug\net7.0\guess-game.pdb
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.csproj.AssemblyReference.cache
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.AssemblyInfoInputs.cache
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.AssemblyInfo.cs
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.csproj.CoreCompileInputs.cache
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.dll
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\refint\guess-game.dll
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.pdb
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\guess-game.genruntimeconfig.cache
+C:\Users\Segun\OneDrive\Desktop\guess-game\obj\Debug\net7.0\ref\guess-game.dll
